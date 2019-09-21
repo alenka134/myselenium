@@ -37,7 +37,7 @@ public class WebDriverFactory {
     }
 
     /**
-     * Main method of class - it initialize driver and starts browser.
+     * Practice6 method of class - it initialize driver and starts browser.
      *
      * @param isLocal - is tests will be started local or not
      */

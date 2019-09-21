@@ -1,4 +1,4 @@
-package com.selenium.test.myselenium.samples.basicElements;
+package com.selenium.test.myselenium.samples.basicElements.examples;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
