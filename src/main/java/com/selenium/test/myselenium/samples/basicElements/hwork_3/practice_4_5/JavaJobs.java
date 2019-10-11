@@ -1,5 +1,6 @@
 package com.selenium.test.myselenium.samples.basicElements.hwork_3.practice_4_5;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -15,12 +16,12 @@ public class JavaJobs {
 
     public void printJavaJobs() throws InterruptedException {
         List<WebElement> searchLinks = ((ChromeDriver) driver).findElementsByPartialLinkText("Java");
-        System.out.println("*****************\nApply your CV to:\n*****************") ;
+        System.out.println("*****************\nApply your CV to:\n*****************");
         for (WebElement link : searchLinks) {
-       //   driver.findElement(By.linkText("Java")).click();
+
             System.out.println("- " + link.getText()); //Print only the jobs that has ‘java’ in it
             Thread.sleep(2000);
-          //  driver.navigate().back();
+
         }
     }
 }

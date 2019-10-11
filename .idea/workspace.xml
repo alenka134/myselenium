@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c33a66eb-5114-40f1-93e6-ef810c70e4b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/SampleSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/AirTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Jobs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/913a3d344f87d00f78686b92013124a05178f771" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c24f4d4bcef6a9077a740ca46453ada22d7953ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdb6efa2b5ea0f5fd672def75d2fea998d05b4c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/JavaJobs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/JavaJobs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/SearchLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/SearchLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Main.java" afterDir="false" />
     </list>
     <ignored path="selenium-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/exe5/Main.java">
+      <file leaf-file-name="Flight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Flight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="645">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,30 +55,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selenium-app.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium-app.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name=".ignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.ignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebPageVisit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/exe5/WebPageVisit.java">
+      <file leaf-file-name="SampleSelect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/SampleSelect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="300">
+              <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,6 +87,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>java</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,6 +112,43 @@
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/exe5/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/exe5/WebPageVisit.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/practice_7/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/practice_7/WebPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/practice_6/ExtractIPadress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/practice_6/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4/Practice4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4/SearchLink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4/JavaPositionPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/JavaPositionPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/MySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Jobs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/JavaJobs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/SearchLink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Practice7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/Frames.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/SelectListHandle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/AirTickets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/SampleSelect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Flight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Main.java" />
       </list>
     </option>
   </component>
@@ -109,17 +162,19 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="705" />
-    <option name="height" value="797" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,11 +208,50 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="basicElements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="basicElements" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="basicElements" type="462c0819:PsiDirectoryNode" />
+              <item name="hwork_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="basicElements" type="462c0819:PsiDirectoryNode" />
+              <item name="hwork_3" type="462c0819:PsiDirectoryNode" />
+              <item name="practice_6" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -169,6 +263,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -179,6 +274,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -196,57 +297,57 @@
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="Exe1_ElementsByID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.Exe1_ElementsByID" />
+    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.solutions.seleniumCourseHWSolutionsAll.bin.operations.Exercise6" />
       <module name="selenium-app" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.*" />
+          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.solutions.seleniumCourseHWSolutionsAll.bin.operations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Exe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.Exe2" />
+    <configuration name="Frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.examples.Frames" />
       <module name="selenium-app" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.*" />
+          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Exe3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.Exe3" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.hwork_3.practice_6.Main" />
       <module name="selenium-app" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Exe4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.Exe4" />
-      <module name="selenium-app" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.*" />
+          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.hwork_3.practice_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.exe5.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.hwork_3.practice_6.Main" />
       <module name="selenium-app" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.hwork_1.exe5.*" />
+          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.hwork_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SampleSelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.myselenium.samples.basicElements.examples.SampleSelect" />
+      <module name="selenium-app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.test.myselenium.samples.basicElements.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,19 +398,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.Exe1_ElementsByID" />
-      <item itemvalue="Application.Exe2" />
-      <item itemvalue="Application.Exe3" />
-      <item itemvalue="Application.Exe4" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Frames" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Exercise6" />
+      <item itemvalue="Application.SampleSelect" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Exe4" />
-        <item itemvalue="Application.Exe3" />
-        <item itemvalue="Application.Exe2" />
-        <item itemvalue="Application.Exe1_ElementsByID" />
+        <item itemvalue="Application.SampleSelect" />
+        <item itemvalue="Application.Exercise6" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Frames" />
       </list>
     </recent_temporary>
   </component>
@@ -327,47 +428,62 @@
       <workItem from="1438204658781" duration="19000" />
       <workItem from="1438204689446" duration="5000" />
     </task>
+    <task id="LOCAL-00001" summary="add gitignore">
+      <created>1566933768525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566933768525</updated>
+    </task>
+    <task id="LOCAL-00002" summary="frames">
+      <created>1569085392979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569085392979</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="61000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="705" height="797" extended-state="0" />
+    <frame x="0" y="23" width="772" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.62038404" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293944" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5027397" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="DB Browser" order="2" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
-      <window_info id="Palette&#9;" order="2" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293944" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293944" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49321267" />
-      <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
       <window_info anchor="right" id="IDEtalk" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
       <window_info anchor="bottom" id="Changes" order="7" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.33665836" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="IDEtalk Messages" order="7" />
@@ -385,33 +501,94 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore" />
+    <MESSAGE value="frames" />
+    <option name="LAST_COMMIT_MESSAGE" value="frames" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;div[class^='buttonCTAItemComponent']&gt;div&gt;button&quot;)).click();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;div[class^='cta_0 buttonCTAItemComponent parbase']&gt;div&gt;button&quot;)).click();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;div[class^='btn-container']&gt;div&gt;button&quot;)).click();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;div[class^='btn-container ']&gt;div&gt;button&quot;)).click();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;div[class^='btn-container ']&gt;div&gt;button&quot;)).cl\</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>WebElement webButten = driver.findElement(By.className(&quot;btn-container&quot;));
+webButten.click();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>WebElement webButten = driver.findElement(By.className(&quot;btn-container&quot;));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.className(&quot;btn-container&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.className(&quot;btn-container1&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;btn-container&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;btn-container &quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;buttonCTAItemComponent&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;buttonCTAItemComponent parbase&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;cta_0 buttonCTAItemComponent parbase&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/MySelenium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="27" selection-start-line="20" selection-start-column="8" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/Exe1_ElementsByID.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -478,110 +655,261 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/MySelenium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="13" column="102" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/WebDriverSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/exercise5/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/exercise5/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/exercise5/SeleniumPage.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="14" column="81" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="81" />
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/exercise5/SeleniumPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.ignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/selenium-app.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/practice_6/ExtractIPadress.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/exe5/WebPageVisit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="10" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/Exe4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="40" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/Exe3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="32" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/Exe2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/Exe1_ElementsByID.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="354">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/exe5/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        <state relative-caret-position="135">
+          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/Practice6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/practice_7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_2/practice_7/WebPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/Exe3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/Exe2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/WebDriverSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/MySearch.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/MySelenium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Jobs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/SearchLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/JavaJobs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="86" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/Frames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practice7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="72" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/SelectSample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/AirTickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_4_5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_1/Exe1_ElementsByID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/SampleSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-app.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.ignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Flight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="645">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

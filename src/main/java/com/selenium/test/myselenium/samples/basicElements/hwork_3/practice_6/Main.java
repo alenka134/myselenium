@@ -1,8 +1,11 @@
 package com.selenium.test.myselenium.samples.basicElements.hwork_3.practice_6;
 
+import com.selenium.test.myselenium.samples.basicElements.solutions.seleniumCourseHWSolutionsAll.bin.operations.AirTickets;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+
+import java.util.concurrent.TimeUnit;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
@@ -11,14 +14,12 @@ public class Main {
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.flightconnections.com/");
-      //  driver.switchTo().frame("From which airport would you like to fly?");
-        driver.findElement(By.xpath("//*[@id='map-container']")).sendKeys("TLV");
-        Thread.sleep(2000);
-       // driver.switchTo().defaultContent();
-      //  driver.switchTo().frame("To which airport would you like to fly?");
-      //  driver.findElement(By.cssSelector("#to-input")).sendKeys("VIE");
-      //  driver.switchTo().defaultContent();
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
+        // call the searchFlight from the class
+        Flight flight = new Flight(driver);
+        flight.flightFrom("TLV");
+        flight.flightTo("VIE");
 
     }
 }

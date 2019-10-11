@@ -15,12 +15,12 @@ public class SearchLink {
     }
 
     public void printAllJobs() throws InterruptedException {
+
         //Get list of all jobs
         List<WebElement> allLinks = driver.findElements(By.cssSelector("#comp-jilghhzxinlineContent"));
 
         for (WebElement link : allLinks) {
-            // System.out.println(link.getText() + " - " + link.getAttribute("href")); ->> print all positions with links
-            Thread.sleep(5000);
+
             System.out.println("All positions list: " + link.getText());
             Thread.sleep(5000);
         }
@@ -35,4 +35,3 @@ public class SearchLink {
         }
     }
 }
-

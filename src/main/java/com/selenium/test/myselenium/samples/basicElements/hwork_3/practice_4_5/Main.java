@@ -12,6 +12,7 @@ public class Main {
         WebDriver driver = new ChromeDriver();
         SearchLink searchLink = new SearchLink(driver);
         JavaJobs javaJobs = new JavaJobs(driver);
+
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get("http://www.wix.com/jobs/locations/tel-aviv/positions/");
