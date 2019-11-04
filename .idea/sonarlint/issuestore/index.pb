@@ -82,3 +82,17 @@ Wsrc/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/Practi
 Usrc/main/java/com/selenium/test/myselenium/samples/basicElements/examples/Frames.java,1/4/14a530b8a6f365e98df8b09c7140e2ae0fdda9f9
 ã
 [src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/SampleSelect.java,8/4/84f52facd57263e517e0ed074e7faa33fc756f4f
+í
+bsrc/main/java/com/selenium/test/myselenium/samples/basicElements/examples/SwitchBetweenFrames.java,7/4/74f3f304c8cf15eaecb6b6e89ed0454ce93f2c9c
+ú
+lsrc/main/java/com/selenium/test/myselenium/samples/basicElements/examples/eply/com/pageobjects/BasePage.java,c/b/cb45928dea519358cf678f3acda2dbf77a613fd6
+ù
+msrc/main/java/com/selenium/test/myselenium/samples/basicElements/examples/eply/com/pageobjects/LoginPage.java,e/c/ecbc850fad8465f9607a384b1e25027fbb586890
+¶
+vsrc/main/java/com/selenium/test/myselenium/samples/basicElements/examples/eply/com/pageobjects/ForgotPasswordPage.java,9/1/9146a19af7e2763e30c7350a9eb68a1a69c40b88
+Ö
+Usrc/main/java/com/selenium/test/myselenium/samples/basicElements/examples/Alerts.java,8/8/887638a6af34716932235c907814b0f9d7686d43
+†
+psrc/main/java/com/selenium/test/myselenium/samples/basicElements/examples/eply/com/tests/ForgotPasswordTest.java,4/1/4109d61a303ee62a96be2355560b9c8cb150e684
+i
+9src/main/java/com/selenium/test/webtestsbase/Browser.java,0/b/0bc92f69ed5b8fa3593ca427e2231c257dde02f4

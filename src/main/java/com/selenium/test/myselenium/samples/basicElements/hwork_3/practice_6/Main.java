@@ -21,5 +21,6 @@ public class Main {
         flight.flightFrom("TLV");
         flight.flightTo("VIE");
 
+        driver.quit();
     }
 }
