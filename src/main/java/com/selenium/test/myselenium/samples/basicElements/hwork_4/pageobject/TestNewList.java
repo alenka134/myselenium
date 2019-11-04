@@ -30,6 +30,7 @@ public class TestNewList extends BasePage {
             Thread.sleep(5000);
             // sure you are not checking for the alert too soon.
             Alert alt = driver.switchTo().alert();
+            alt.sendKeys("Elena List");
             alt.accept();
 
         } catch (NoAlertPresentException noe) {
@@ -38,7 +39,7 @@ public class TestNewList extends BasePage {
     }
 
     public void clickNewList() throws InterruptedException {
-        newList = driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]/span[1]"));
+        newList = driver.findElement(By.xpath("//span[text()='Elena List']"));
         Thread.sleep(3000);
         newList.click();
     }
@@ -53,7 +54,7 @@ public class TestNewList extends BasePage {
 
     //Check that in the list are 2 tasks
     public void taskCheckList() throws InterruptedException {
-        List<WebElement> allTaskSearched = driver.findElements(By.cssSelector("span[id='total']"));
+       List<WebElement> allTaskSearched = driver.findElements(By.cssSelector("span[id='total']"));
 
         for (WebElement taskNumber : allTaskSearched) {
             System.out.println("\nTasks Number in the 2nd list --> " + taskNumber.getText());
