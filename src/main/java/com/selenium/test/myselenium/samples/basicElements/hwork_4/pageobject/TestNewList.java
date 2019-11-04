@@ -17,7 +17,6 @@ public class TestNewList extends BasePage {
         btnAddNewList = driver.findElement(By.cssSelector("#lists > div.mtt-tabs-add-button"));
         simpleTaskField = driver.findElement(By.cssSelector("#task"));
         btnAddTask = driver.findElement(By.cssSelector("#newtask_submit"));
-
     }
 
     public void clickBtnAddNewList() throws InterruptedException {
@@ -47,14 +46,14 @@ public class TestNewList extends BasePage {
     //Actions
 
     public void addSimpleTask() {
-        simpleTaskField.sendKeys("Elena added the Simple Task in Todo");
+        simpleTaskField.sendKeys("Elena added the Simple Task in the 2nd list");
         btnAddTask.click();
         btnAddTask.click();
     }
 
     //Check that in the list are 2 tasks
     public void taskCheckList() throws InterruptedException {
-       List<WebElement> allTaskSearched = driver.findElements(By.cssSelector("span[id='total']"));
+        List<WebElement> allTaskSearched = driver.findElements(By.cssSelector("span[id='total']"));
 
         for (WebElement taskNumber : allTaskSearched) {
             System.out.println("\nTasks Number in the 2nd list --> " + taskNumber.getText());

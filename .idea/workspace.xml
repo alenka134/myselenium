@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c33a66eb-5114-40f1-93e6-ef810c70e4b9" name="Default" comment=" frames samples">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/SwitchBetweenFrames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/eply/com/pageobjects/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/eply/com/pageobjects/ForgotPasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/eply/com/pageobjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/examples/eply/com/tests/ForgotPasswordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TasksPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestNewList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/tests/TasksTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/AirTickets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise2.java" afterDir="false" />
@@ -22,10 +10,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Exercise7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations/Jobs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_3/practice_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestNewList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestNewList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/junit/rules/ScreenShotOnFailRule$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/junit/rules/ScreenShotOnFailRule.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/junit/tests/PageObjectTest.class" beforeDir="false" />
@@ -52,11 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestNewList.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestNewList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestNewList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="156">
+              <caret line="48" column="77" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TasksTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TasksTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/tests/TasksTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
+            <state relative-caret-position="656">
               <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -147,9 +133,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/tests/TestSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestSearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestNewList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/tests/TasksTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/tests/TasksTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestNewList.java" />
       </list>
     </option>
   </component>
@@ -249,7 +235,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="basicElements" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="hwork_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
@@ -259,42 +245,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="basicElements" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="basicElements" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="basicElements" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="basicElements" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="hwork_4" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobject" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,6 +275,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.selenium.test.myselenium.samples.basicElements.hwork_4" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions/seleniumCourseHWSolutionsAll/bin/operations" />
       <recent name="$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/solutions" />
@@ -496,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570824550412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" frames samples">
+      <created>1572891171069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572891171070</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -504,6 +466,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
@@ -522,10 +485,10 @@
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.49002492" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.49002492" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32793018" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27753934" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27753934" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Theme Preview" order="4" />
@@ -1036,20 +999,20 @@ webButten.click();</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestNewList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/tests/TasksTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="656">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/tests/TasksTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/myselenium/samples/basicElements/hwork_4/pageobject/TestNewList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="156">
+          <caret line="48" column="77" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
